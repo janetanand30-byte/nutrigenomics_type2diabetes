@@ -1,0 +1,10 @@
+KEGG Pathway (ID),Category,Gene Count,Pathway Size,Enrichment Ratio,p-value,FDR p-value,Genes in Pathway
+Type II Diabetes Mellitus (hsa04930),Metabolic disease,05-Jul,51,0.71,1.8×10?¹³,3.4×10??,"TCF7L2, PPARG, KCNJ11, ADIPOQ, IRS1"
+Insulin Signaling Pathway (hsa04910),Signal transduction,04-Jul,137,0.62,4.3×10?¹¹,8.2×10??,"PPARG, KCNJ11, ADIPOQ, IRS1"
+PPAR Signaling Pathway (hsa03320),Signal transduction,03-Jul,89,0.58,7.4×10??,1.4×10??,"PPARG, ADIPOQ, FTO"
+Adipocytokine Signaling (hsa04920),Metabolic regulation,03-Jul,70,0.55,1.1×10??,2.1×10??,"PPARG, ADIPOQ, IRS1"
+PI3K-Akt Signaling (hsa04151),Signal transduction,04-Jul,354,0.41,2.8×10??,5.3×10?³,"PPARG, KCNJ11, IRS1, TCF7L2"
+Circadian Rhythm (hsa04710),Biological rhythm,01-Jul,32,0.48,3.7×10??,4.1×10?²,MTNR1B
+Wnt Signaling Pathway (hsa04310),Signal transduction,02-Jul,150,0.38,4.2×10??,4.8×10?²,"TCF7L2, PPARG"
+AMPK Signaling (hsa04152),Energy sensing,02-Jul,124,0.35,6.1×10??,4.9×10?²,"ADIPOQ, IRS1"
+Fatty Acid Metabolism (hsa01212),Lipid metabolism,02-Jul,71,0.32,8.4×10??,5.1×10?²,"FTO, PPARG"

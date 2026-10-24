@@ -1,0 +1,8 @@
+Gene,RSID,Primary Tissue,NES,eQTL p-value,Epigenetic Evidence (Diet-Responsive),Data Source
+TCF7L2,rs7903146,Pancreas,0.31,4.2×10??,T allele ? ? TCF7L2 alt. splice isoforms; palmitate ? ? TCF7L2 promoter methylation (? expression rescue),GTEx v8; Locke 2014 [65]
+FTO,rs9939609,Adipose (Subcutaneous),0.24,1.8×10??,A allele ? ? FTO/RPGRIP1L expression; caloric restriction ? demethylation at FTO intron 2 enhancer (??=?0.06),GTEx v8; Rohde 2019 [63]
+PPARG,rs1801282,Adipose tissue,?0.19,3.1×10??,"Ala allele ? ? PPAR?2 promoter methylation after omega-3 supp. (??=?0.08, p=0.003); ? PPARG2 mRNA",GEO:GSE56045; Nettleton 2015 [62]
+KCNJ11,rs5219,Pancreas,0.16,8.7×10?³,T allele ? altered KCNJ11:ABCC8 transcript ratio; high GI diet ? ? KCNJ11 promoter methylation in islets,GTEx v8; Renström 2011 [48]
+MTNR1B,rs10830963,Pancreatic islets,0.38,2.9×10??,G allele ? ? MTNR1B islet expression; late eating ? ? MTNR1B promoter H3K27ac mark (permissive chromatin),Prokopenko 2009 [49]
+ADIPOQ,rs2241766,Adipose (Subcutaneous),?0.22,5.4×10??,G allele ? ? ADIPOQ 3?UTR stability; omega-3 ? ? ADIPOQ promoter demethylation (GEO:GSE56045 SFAs reverse this),GEO:GSE56045; GTEx v8 [64]
+IRS1,rs1801278,Skeletal Muscle,?0.15,2.1×10?³,"A allele ? ? IRS1 protein; caloric restriction ? IRS1 promoter demethylation (??=?0.09, GEO:GSE66313)",GEO:GSE66313; GTEx v8 [64]

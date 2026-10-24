@@ -1,0 +1,8 @@
+﻿S.No.,Gene Symbol,Full Name,Biological Function,Chr. Location,Mechanism of T2DM Risk
+1,TCF7L2,Transcription Factor 7-Like 2,"Wnt/β-catenin transcription factor; β-cell development, GLP-1 regulation",10q25.3,"↓ β-cell function, ↑ β-cell apoptosis, impaired incretin effect"
+2,FTO,Fat Mass and Obesity Associated,"RNA m6A demethylase; hypothalamic energy homeostasis, appetite regulation",16q12.2,"↑ Adiposity, ↑ BMI, impaired satiety signalling"
+3,PPARG,Peroxisome Proliferator-Activated Receptor Gamma,"Nuclear receptor; master adipogenesis regulator, insulin sensitiser",3p25.2,Reduced insulin sensitivity (Pro allele); complex PUFA interaction
+4,KCNJ11,Potassium Inwardly Rectifying Channel J11,Kir6.2 subunit of β-cell KATP channel; glucose-stimulated insulin secretion,11p15.1,↓ GSIS; impaired KATP channel closure in response to ATP
+5,MTNR1B,Melatonin Receptor 1B,High-affinity melatonin receptor in islets; suppresses insulin secretion,11q21-q22,↑ MTNR1B expression → excess melatonin-mediated insulin suppression
+6,ADIPOQ,"Adiponectin, C1Q and Collagen Domain","Adipokine; insulin-sensitising, anti-inflammatory, fatty acid oxidation",3q27.3,"↓ Adiponectin → ↓ insulin sensitivity, ↑ inflammation"
+7,IRS1,Insulin Receptor Substrate 1,IRS-1 scaffold protein; PI3K/Akt insulin signalling cascade hub,2q36.3,Gly972Arg → ↓ PI3K binding → ↓ insulin signal transduction

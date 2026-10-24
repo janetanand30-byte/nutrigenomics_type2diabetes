@@ -1,0 +1,8 @@
+Gene,RSID,Dietary Factor,Interaction Summary,Effect Size,p-value
+TCF7L2,rs7903146,Saturated Fat,High saturated fat intake increases T2DM risk in T allele carriers,HR = 3.09,0.02
+FTO,rs9939609,Mediterranean Diet,Mediterranean diet abolishes the BMI-promoting effect of the A allele,OR abolished,0.03
+PPARG,rs1801282,Polyunsaturated Fatty Acids (PUFA),Protective effect of Ala allele only when SFA: PUFA < 1.0,Protective effect lost when SFA dominant,0.04
+KCNJ11,rs5219,Glycemic Index,High GI diet increases T2DM risk in T allele carriers,Increased risk,0.031
+MTNR1B,rs10830963,Meal Timing,Late-night eating increases fasting glucose in G allele carriers,? = 0.22 mmol/L,0.018
+ADIPOQ,rs2241766,Omega-3 Fatty Acids,Omega-3 supplementation increases adiponectin levels more in G allele carriers,38% increase,0.027
+IRS1,rs1801278,Animal Protein,High animal protein intake increases T2DM risk in A allele carriers,OR = 2.14,0.041

@@ -1,0 +1,8 @@
+RSID,Gene,Chr: Position (GRCh38),Ref Allele,Risk Allele,MAF SAS,MAF EUR,OR,Functional Annotation & ClinVar
+rs7903146,TCF7L2,"chr10:112,998,590",C,T,0.318,0.292,1.37,Intronic; alters TCF7L2 splicing; risk-factor (RCV000007838.14)
+rs9939609,FTO,"chr16:53,800,954",T,A,0.381,0.449,1.22,Intronic; eQTL FTO/RPGRIP1L adipose; risk-factor (RCV000116046)
+rs1801282,PPARG,"chr3:12,393,125",C,G,0.082,0.121,0.86*,Missense Pro12Ala; ? PPAR?2 activity; protective (RCV000004038)
+rs5219,KCNJ11,"chr11:17,408,630",C,T,0.422,0.441,1.14,Missense E23K; ? KATP channel ATP sensitivity; risk-factor
+rs10830963,MTNR1B,"chr11:92,709,986",C,G,0.271,0.292,1.09,Intronic; ? MTNR1B islet expression; risk-factor (RCV000116048)
+rs2241766,ADIPOQ,"chr3:186,840,847",T,G,0.193,0.188,1.18,3? UTR; ? ADIPOQ mRNA stability ? ? adiponectin; risk-factor
+rs1801278,IRS1,"chr2:227,092,705",G,A,0.091,0.077,1.25,Missense Gly972Arg; ? IRS-1/PI3K binding; risk-factor

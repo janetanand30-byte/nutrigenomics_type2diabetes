@@ -1,0 +1,8 @@
+RSID,Gene,OR,95% CI,p-value,Key GWAS Observations (Population & Replication),Primary Reference
+rs7903146,TCF7L2,1.37,1.31-1.43,1.2×10?¹²?,"Strongest T2DM GWAS signal. Replicated in EUR, SAS, AFR, EAS. Higher T allele freq in SAS (0.318) than EUR (0.292). ~21% population attributable risk (EUR).",Morris et al. 2012 [8]
+rs9939609,FTO,1.22,1.18-1.26,3.0×10?³?,T2DM effect primarily mediated through BMI/adiposity. Similar effect in EUR and SAS. Weaker in EAS. Mediterranean diet abolishes genetic effect (PREDIMED trial).,Frayling et al. 2007 [38]
+rs1801282,PPARG,0.86,0.81-0.90,8.0×10?¹?,Protective allele. Significant in EUR meta-analyses. Lower Ala allele frequency in SAS (0.082) than EUR (0.121). Interaction with PUFA alters direction.,Altshuler et al. 2000 [44]
+rs5219,KCNJ11,1.14,1.10-1.19,5.6×10?¹?,Missense E23K. High frequency in both SAS (0.422) and EUR (0.441). Interacts with dietary glycemic index. Effect replicated in South Asian GWAS.,Gloyn et al. 2003 [47]
+rs10830963,MTNR1B,1.09,1.06–1.12,3.3×10?²²,Intron variant. Increases islet MTNR1B expression. Interaction with meal timing (late-night eating). Relevant for urban South Asian lifestyle patterns.,Prokopenko 2009 [49]
+rs2241766,ADIPOQ,1.18,1.11–1.25,2.1×10??,3? UTR variant reduces adiponectin. South Asian women show strong association. Omega-3 interaction modifies adiponectin response.,Menzaghi et al. 2002 [55]
+rs1801278,IRS1,1.25,1.14–1.37,4.1×10??,"Missense Gly972Arg reduces IRS-1 PI3K signalling. Effect amplified by high animal protein intake in EPIC-InterAct study (n=27,779).",Clausen et al. 1995 [57]
